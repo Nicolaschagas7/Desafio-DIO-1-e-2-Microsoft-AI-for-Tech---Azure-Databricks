@@ -1,4 +1,4 @@
-# Desafios do Bootcamp "Microsoft AI for Tech - Azure Databricks" - DIO
+# Desafios 01 e 02 do Bootcamp "Microsoft AI for Tech - Azure Databricks" - DIO
 
 Este repositório reúne a entrega de **dois desafios distintos** propostos durante o Bootcamp da DIO ministrado pela professora **Carol**. Ambos foram organizados em um único repositório devido à continuidade lógica entre eles e à reutilização de recursos, como o mesmo Data Factory.
 
